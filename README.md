@@ -10,7 +10,6 @@ I'm Peter Mbugua Wanjiru, a passionate self-taught full stack web and mobile app
 
 - 📧 any freelance work? do reach, [email](mailto:petrmbugua@gmail.com) :)
 
-**languages:** 
 ---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mbuguap&langs_count=8)](https://github.com/mbuguap/github-readme-stats)
 
