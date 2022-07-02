@@ -6,6 +6,16 @@
 <!-- ![code gif](code.gif) -->
 <!-- <img align="top" alt="GIF" src="code.gif" width="500" height="320" /> -->
 
-I'm Peter Mbugua, a passionate self-taught full stack web and mobile app developer from Nairobi, Kenya. 
+I'm Peter Mbugua Wanjiru, a passionate self-taught full stack web and mobile app developer from Nairobi, Kenya.
 
 - 📧 any freelance work? do reach, [email](mailto:petrmbugua@gmail.com) :)
+
+**languages:** 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mbuguap&langs_count=8)](https://github.com/mbuguap/github-readme-stats)
+
+**Github Stats:** 
+
+![Mbuguap's GitHub stats](https://github-readme-stats.vercel.app/api?username=mbuguap&show_icons=true&theme=gotham)
+
+
+
