@@ -4,6 +4,8 @@
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](http://portfolio-mbuguap.vercel.app/)
 
 <!-- ![code gif](code.gif) -->
-<img align="top" alt="GIF" src="code.gif" width="500" height="320" />
+<!-- <img align="top" alt="GIF" src="code.gif" width="500" height="320" /> -->
 
-- 💼 any freelance work? do reach, [email](mailto:petrmbugua@gmail.com) :)
+I'm Peter Mbugua, a passionate self-taught full stack web and mobile app developer from Nairobi, Kenya. 
+
+- 📧 any freelance work? do reach, [email](mailto:petrmbugua@gmail.com) :)
